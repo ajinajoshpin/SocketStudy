@@ -1,3 +1,7 @@
+## NAME:RAMYA P
+## REGISTER NUMBER:212223230168
+
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
